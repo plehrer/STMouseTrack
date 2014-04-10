@@ -1,0 +1,3 @@
+.DS_Store
+*.dylib
+libopencv_ts.a
